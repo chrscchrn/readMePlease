@@ -62,29 +62,30 @@ function generateREADME(answers) {
     return `
 # ${answers.Title}
 
-    ## Github
-## ${answers.github}
+    
+## Github
+    ${answers.github}
 
-    ## Questions
-## ${answers.email}
+## Questions
+    ${answers.email}
 
-    * Description
-### ${answers.Description}
+### Description
+    ${answers.Description}
 
-    * Installation
-### ${answers.Installation}
+### Installation
+    ${answers.Installation}
 
-    * Usage
-### ${answers.Usage}
+### Usage
+    ${answers.Usage}
 
-    * License
-### ${answers.License}
+### License
+    ${answers.License}
 
-    * Contributing
-### ${answers.Contributing}
+### Contributing
+    ${answers.Contributing}
 
-    * Test
-### ${answers.Tests}
+### Test
+    ${answers.Tests}
 
         `;
 }

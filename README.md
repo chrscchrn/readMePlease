@@ -1,28 +1,29 @@
 
-# gg
+# ReadMePlease
 
-    ## Github
-## sdfg
+    
+## Github
+    chrscchrn
 
-    ## Questions
-## g
+## Questions
+    cochranschris@gmail.com
 
-    * Description
-### dafgad
+### Description
+    This project neatly organizes a README for the user. This is to eliminate time spent structuring a README.
 
-    * Installation
-### sdfg
+### Installation
+    npi i inquirer
 
-    * Usage
-### sdfg
+### Usage
+    answer the prompts with what you would put into your own README
 
-    * License
-### sdfg
+### License
+    None
 
-    * Contributing
-### sdfg
+### Contributing
+    Please do not edit.
 
-    * Test
-### undefined
+### Test
+    undefined
 
         

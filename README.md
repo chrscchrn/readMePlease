@@ -3,7 +3,7 @@
 
     
 ## Github
-    chrscchrn
+    https://github.com/chrscchrn
 
 ## Questions
     cochranschris@gmail.com
@@ -15,22 +15,21 @@
     npi i inquirer
 
 ### Usage
-    answer the prompts with what you would put into your own README
+    Answer the prompts with the formal information you would put into your own README. Add a screenshot or two and a link to the hosted website if needed.
 
 ### License
     None
 
 ### Contributing
-    Please do not edit.
+    Feel free to comment
 
 ### Test
-    undefined
+    None
 
 ### Screenshots
-[This](screenshot.png) is what it looks like on Visual Studio Code.
+    [This](screenshot.png) is what it looks like on Visual Studio Code.
 
 ### Link to Website
-    *this is for repositories that need a link to the actual website.
+    *this is for repositories that need a link to the actual website.       
 
-The above is essentially what the this REAME generator will produce. The user should expect to install Inquirer and Node.JS before use. 
-Type in node index.js to run the program. A series of questions can be formally answered and then they will be organized and formatted for them. 
+The above is essentially what the this REAME generator will produce. The user should expect to install Inquirer and Node.JS before use. Type in node index.js to run the program. A series of questions can be formally answered and then they will be organized and formatted for them.

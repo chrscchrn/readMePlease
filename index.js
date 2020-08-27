@@ -1,11 +1,11 @@
-// function to initialize program
+// variables to initialize program
 const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
 const writeFileAsync = util.promisify(fs.writeFile);
 
 
-// array of questions for user
+// objects of questions for user
 function promptUser() {
     return inquirer.prompt([
     {
@@ -40,7 +40,7 @@ function promptUser() {
     },
     {
         type: "input",
-        name: "Test",
+        name: "Tests",
         message: "Enter test instructions."
     },
     {
@@ -64,7 +64,7 @@ function generateREADME(answers) {
 
     
 ## Github
-    ${answers.github}
+    https://github.com/${answers.github}
 
 ## Questions
     ${answers.email}
@@ -87,6 +87,10 @@ function generateREADME(answers) {
 ### Test
     ${answers.Tests}
 
+### Screenshots
+
+
+### Link to Website
         `;
 }
 
